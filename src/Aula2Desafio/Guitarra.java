@@ -12,7 +12,7 @@ public class Guitarra {
         System.out.println("Modelo: " + this.modelo);
         System.out.println("Madeira: " + this.madeira);
         System.out.println("O violão está afinado? " + this.afinado);
-        System.out.println("Qual é a numeração da corda: " + this.cordas);
+        System.out.println("Cordas : " + this.cordas);
     }
 
     void tocar (){
